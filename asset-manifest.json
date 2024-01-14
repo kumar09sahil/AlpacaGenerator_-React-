@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlpacaGenerator_-React-/static/css/main.ba9b0184.css",
+    "main.js": "/AlpacaGenerator_-React-/static/js/main.d7973a5e.js",
+    "static/js/787.f980d895.chunk.js": "/AlpacaGenerator_-React-/static/js/787.f980d895.chunk.js",
+    "index.html": "/AlpacaGenerator_-React-/index.html",
+    "main.ba9b0184.css.map": "/AlpacaGenerator_-React-/static/css/main.ba9b0184.css.map",
+    "main.d7973a5e.js.map": "/AlpacaGenerator_-React-/static/js/main.d7973a5e.js.map",
+    "787.f980d895.chunk.js.map": "/AlpacaGenerator_-React-/static/js/787.f980d895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba9b0184.css",
+    "static/js/main.d7973a5e.js"
+  ]
+}
